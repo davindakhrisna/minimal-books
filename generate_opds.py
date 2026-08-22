@@ -42,6 +42,7 @@ def update_books_yaml():
                 "author": "Unknown",
                 "genre": "Uncategorized",
                 "summary": "No summary provided.",
+                "cover": "",
                 "tags": [],
                 "file": file
             })
@@ -106,6 +107,19 @@ def generate_opds(books):
         tags = book.get("tags") or []
         for tag in tags:
             SubElement(entry, "category", {"term": tag, "label": tag})
+            
+        cover = book.get("cover")
+        if cover:
+            SubElement(entry, "link", {
+                "rel": "http://opds-spec.org/image",
+                "href": urllib.parse.quote(cover),
+                "type": "image/jpeg"
+            })
+            SubElement(entry, "link", {
+                "rel": "http://opds-spec.org/image/thumbnail",
+                "href": urllib.parse.quote(cover),
+                "type": "image/jpeg"
+            })
             
         # File acquisition link
         ext = os.path.splitext(book["file"])[1].lower()
