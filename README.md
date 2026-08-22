@@ -38,6 +38,22 @@ Because the OPDS feed and the books are entirely static, you can easily host thi
    ```
 4. Your OPDS feed is now live on your server at `http://localhost:8080/catalog.xml`. Point your e-reader apps here!
 
+### Syncing Updates Locally
+
+If you are self-hosting and adding books directly to your server (instead of pushing to GitHub), your `catalog.xml` won't automatically update. You have two options to keep it synced:
+
+**Option 1: Sync Manually**
+Whenever you drop a new PDF or EPUB into the `contents/` folder, manually run the generator:
+```bash
+python .github/scripts/generate_opds.py
+```
+
+**Option 2: Run the Watcher**
+You can run the included watcher script in the background. It will continuously monitor your `contents/` directory and `.github/books.yaml` for changes, and automatically regenerate the feed when it detects a new file or edit:
+```bash
+python .github/scripts/watch.py
+```
+
 ## 📖 Alternative Library Management
 
 You can also use dedicated library management software to host or manage this library:
