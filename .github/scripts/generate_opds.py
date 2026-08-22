@@ -7,7 +7,7 @@ import uuid
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 
-BOOKS_YAML = "books.yaml"
+BOOKS_YAML = ".github/books.yaml"
 CATALOG_XML = "catalog.xml"
 SUPPORTED_EXTENSIONS = {".pdf": "application/pdf", ".epub": "application/epub+zip"}
 
