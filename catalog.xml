@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:github-pages-book-catalog</id>
+  <title>My Book Catalog</title>
+  <updated>2026-08-22T00:29:36Z</updated>
+  <author>
+    <name>OPDS Generator</name>
+  </author>
+  <link rel="self" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Algorithms Notes For Professionals</title>
+    <id>urn:uuid:339b6eb9-a945-53f8-8543-9de3d0265928</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="Algorithms%20Notes%20For%20Professionals.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>Algorithms For Decision Making</title>
+    <id>urn:uuid:ff949436-68b3-51bc-ab25-37a62a3a6fa3</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="Algorithms%20for%20Decision%20Making.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>C++ Programming</title>
+    <id>urn:uuid:49d03a35-990f-5c57-90a7-de9bc2fac397</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="C%2B%2B%20Programming.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>C++ Tapestry 2</title>
+    <id>urn:uuid:917bb5f2-edc7-548e-9bfe-e4e5d41a4a6e</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="C%2B%2B%20Tapestry%202.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>Cyberpunk 2077 No Coincidence</title>
+    <id>urn:uuid:d42d7f0e-3c52-59b8-b66b-700d0bc33dcf</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Sci-Fi" label="Sci-Fi"/>
+    <link rel="http://opds-spec.org/acquisition" href="Cyberpunk%202077%20No%20Coincidence.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Foundations Of Machine Learning</title>
+    <id>urn:uuid:ee9e4891-1011-5884-abd9-8eac55c43ab5</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="Foundations%20of%20Machine%20Learning.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>How It Works…The Computer</title>
+    <id>urn:uuid:2f135378-6e29-51ac-bd42-fc0a29b17c1b</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="How%20It%20Works%E2%80%A6The%20Computer.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>The Prince</title>
+    <id>urn:uuid:abc51d80-3829-5770-b836-822d9399c0a3</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="The%20Prince.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Understanding Machine Learning</title>
+    <id>urn:uuid:6d21504d-eb37-51ec-af1d-57d729372aed</id>
+    <updated>2026-08-22T00:29:36Z</updated>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <summary>No summary provided.</summary>
+    <category term="Uncategorized" label="Uncategorized"/>
+    <link rel="http://opds-spec.org/acquisition" href="Understanding%20Machine%20Learning.pdf" type="application/pdf"/>
+  </entry>
+</feed>
