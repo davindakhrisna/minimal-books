@@ -24,7 +24,7 @@ def save_books(books):
 def discover_files():
     files = []
     for ext in SUPPORTED_EXTENSIONS:
-        files.extend(glob.glob(f"*{ext}"))
+        files.extend(glob.glob(f"contents/*{ext}"))
     return files
 
 def update_books_yaml():
