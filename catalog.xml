@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:github-pages-book-catalog</id>
   <title>My Book Catalog</title>
-  <updated>2026-08-22T00:46:44Z</updated>
+  <updated>2026-08-22T00:49:09Z</updated>
   <author>
     <name>OPDS Generator</name>
   </author>
@@ -10,8 +10,8 @@
   <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>Algorithms Notes for Professionals</title>
-    <id>urn:uuid:339b6eb9-a945-53f8-8543-9de3d0265928</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:ed9160c9-3a1d-5668-80d9-2582f779e692</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>GoalKicker</name>
     </author>
@@ -20,12 +20,12 @@
     <category term="algorithms" label="algorithms"/>
     <category term="computer science" label="computer science"/>
     <category term="reference" label="reference"/>
-    <link rel="http://opds-spec.org/acquisition" href="Algorithms%20Notes%20For%20Professionals.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/Algorithms%20Notes%20For%20Professionals.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>Algorithms for Decision Making</title>
-    <id>urn:uuid:ff949436-68b3-51bc-ab25-37a62a3a6fa3</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:466d73e9-bfe6-58ae-b466-09c74286efda</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Mykel J. Kochenderfer, Tim A. Wheeler, Kyle Wray</name>
     </author>
@@ -34,12 +34,12 @@
     <category term="algorithms" label="algorithms"/>
     <category term="artificial intelligence" label="artificial intelligence"/>
     <category term="decision making" label="decision making"/>
-    <link rel="http://opds-spec.org/acquisition" href="Algorithms%20for%20Decision%20Making.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/Algorithms%20for%20Decision%20Making.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>C++ Programming</title>
-    <id>urn:uuid:49d03a35-990f-5c57-90a7-de9bc2fac397</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:0bb057bd-d160-5404-bb93-480d3dc7e95b</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Wikibooks</name>
     </author>
@@ -48,12 +48,12 @@
     <category term="c++" label="c++"/>
     <category term="programming" label="programming"/>
     <category term="guide" label="guide"/>
-    <link rel="http://opds-spec.org/acquisition" href="C%2B%2B%20Programming.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/C%2B%2B%20Programming.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>C++ Tapestry 2</title>
-    <id>urn:uuid:917bb5f2-edc7-548e-9bfe-e4e5d41a4a6e</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:6173ea53-743a-56fc-a529-afc4d8fe1d03</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Owen Astrachan</name>
     </author>
@@ -62,12 +62,12 @@
     <category term="c++" label="c++"/>
     <category term="computer science" label="computer science"/>
     <category term="textbook" label="textbook"/>
-    <link rel="http://opds-spec.org/acquisition" href="C%2B%2B%20Tapestry%202.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/C%2B%2B%20Tapestry%202.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>Cyberpunk 2077 No Coincidence</title>
-    <id>urn:uuid:d42d7f0e-3c52-59b8-b66b-700d0bc33dcf</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:2ffb7a37-1c71-523a-bc8d-c1f18a247a0d</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Rafał Kosik</name>
     </author>
@@ -76,12 +76,12 @@
     <category term="cyberpunk" label="cyberpunk"/>
     <category term="science fiction" label="science fiction"/>
     <category term="novel" label="novel"/>
-    <link rel="http://opds-spec.org/acquisition" href="Cyberpunk%202077%20No%20Coincidence.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/Cyberpunk%202077%20No%20Coincidence.epub" type="application/epub+zip"/>
   </entry>
   <entry>
     <title>Foundations of Machine Learning</title>
-    <id>urn:uuid:ee9e4891-1011-5884-abd9-8eac55c43ab5</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:57df707c-b384-53b2-8dfc-51f0d0155133</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</name>
     </author>
@@ -90,12 +90,12 @@
     <category term="machine learning" label="machine learning"/>
     <category term="computer science" label="computer science"/>
     <category term="textbook" label="textbook"/>
-    <link rel="http://opds-spec.org/acquisition" href="Foundations%20of%20Machine%20Learning.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/Foundations%20of%20Machine%20Learning.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>How It Works…The Computer</title>
-    <id>urn:uuid:2f135378-6e29-51ac-bd42-fc0a29b17c1b</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:b6bc9942-6c4b-5eaf-9915-56d6f46685d1</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>David Carey</name>
     </author>
@@ -104,12 +104,12 @@
     <category term="technology" label="technology"/>
     <category term="hardware" label="hardware"/>
     <category term="educational" label="educational"/>
-    <link rel="http://opds-spec.org/acquisition" href="How%20It%20Works%E2%80%A6The%20Computer.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/How%20It%20Works%E2%80%A6The%20Computer.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>The Prince</title>
-    <id>urn:uuid:abc51d80-3829-5770-b836-822d9399c0a3</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:9db69e75-a08c-5a0c-ae48-da3d726cc956</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Niccolò Machiavelli</name>
     </author>
@@ -118,12 +118,12 @@
     <category term="philosophy" label="philosophy"/>
     <category term="political science" label="political science"/>
     <category term="classic" label="classic"/>
-    <link rel="http://opds-spec.org/acquisition" href="The%20Prince.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/The%20Prince.epub" type="application/epub+zip"/>
   </entry>
   <entry>
     <title>Understanding Machine Learning</title>
-    <id>urn:uuid:6d21504d-eb37-51ec-af1d-57d729372aed</id>
-    <updated>2026-08-22T00:46:44Z</updated>
+    <id>urn:uuid:23cb687e-2240-5d2f-8abb-d14d4a92dca9</id>
+    <updated>2026-08-22T00:49:09Z</updated>
     <author>
       <name>Shai Shalev-Shwartz, Shai Ben-David</name>
     </author>
@@ -132,6 +132,6 @@
     <category term="machine learning" label="machine learning"/>
     <category term="theory" label="theory"/>
     <category term="algorithms" label="algorithms"/>
-    <link rel="http://opds-spec.org/acquisition" href="Understanding%20Machine%20Learning.pdf" type="application/pdf"/>
+    <link rel="http://opds-spec.org/acquisition" href="contents/Understanding%20Machine%20Learning.pdf" type="application/pdf"/>
   </entry>
 </feed>
