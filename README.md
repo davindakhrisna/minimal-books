@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/logo.webp" alt="Minimal Books Logo" width="200" />
+  <img src=".github/assets/logo.png" alt="Minimal Books Logo" width="200" />
   <h1>Minimal Books</h1>
 </div>
 
