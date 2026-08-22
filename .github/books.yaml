@@ -1,63 +1,54 @@
-- title: Algorithms Notes For Professionals
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+- title: Algorithms Notes for Professionals
+  author: GoalKicker
+  genre: Computer Science / Algorithms
+  summary: A compilation of notes and examples on algorithms from Stack Overflow Documentation.
+  tags: [algorithms, computer science, reference]
   file: Algorithms Notes For Professionals.pdf
-- title: Algorithms For Decision Making
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+- title: Algorithms for Decision Making
+  author: Mykel J. Kochenderfer, Tim A. Wheeler, Kyle Wray
+  genre: Computer Science / AI
+  summary: A broad introduction to algorithms for decision making under uncertainty.
+  tags: [algorithms, artificial intelligence, decision making]
   file: Algorithms for Decision Making.pdf
 - title: C++ Programming
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: Wikibooks
+  genre: Computer Science / Programming
+  summary: A comprehensive guide to the C++ programming language.
+  tags: [c++, programming, guide]
   file: C++ Programming.pdf
 - title: C++ Tapestry 2
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: Owen Astrachan
+  genre: Computer Science / Programming
+  summary: Exploring computer science and programming using C++.
+  tags: [c++, computer science, textbook]
   file: C++ Tapestry 2.pdf
 - title: Cyberpunk 2077 No Coincidence
-  author: Unknown
-  genre: Sci-Fi
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: Rafał Kosik
+  genre: Science Fiction / Cyberpunk
+  summary: A group of strangers are forced to pull off a heist in Night City.
+  tags: [cyberpunk, science fiction, novel]
   file: Cyberpunk 2077 No Coincidence.epub
-- title: Foundations Of Machine Learning
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+- title: Foundations of Machine Learning
+  author: Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
+  genre: Computer Science / Machine Learning
+  summary: A graduate-level introduction to machine learning concepts and algorithms.
+  tags: [machine learning, computer science, textbook]
   file: Foundations of Machine Learning.pdf
 - title: How It Works…The Computer
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: David Carey
+  genre: Non-fiction / Technology
+  summary: A classic illustrated guide explaining the inner workings of computers.
+  tags: [technology, hardware, educational]
   file: How It Works…The Computer.pdf
 - title: The Prince
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: Niccolò Machiavelli
+  genre: Philosophy / Political Science
+  summary: A 16th-century political treatise on how to acquire and maintain political power.
+  tags: [philosophy, political science, classic]
   file: The Prince.epub
 - title: Understanding Machine Learning
-  author: Unknown
-  genre: Uncategorized
-  summary: No summary provided.
-  cover: ""
-  tags: []
+  author: Shai Shalev-Shwartz, Shai Ben-David
+  genre: Computer Science / Machine Learning
+  summary: From theory to algorithms, a comprehensive introduction to machine learning principles.
+  tags: [machine learning, theory, algorithms]
   file: Understanding Machine Learning.pdf
