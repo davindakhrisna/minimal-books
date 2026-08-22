@@ -27,6 +27,21 @@ Because the repository is hosted on GitHub Pages, the OPDS feed is available pub
 
 You can also use dedicated library management software like Kavita or Calibre to host or manage this library.
 
+### Self-Hosting (Standalone)
+
+Because the OPDS feed and the books are entirely static, you can easily host this repository yourself on any server using a basic static file web server like Nginx, without needing GitHub Pages at all.
+
+1. Clone the repository to your server:
+   ```bash
+   git clone https://github.com/davindakhrisna/minimal-books.git
+   ```
+2. Make sure you run `python .github/scripts/generate_opds.py` locally to generate your `catalog.xml` before hosting.
+3. Use the included `docker-compose.yml` to spin up a lightweight Nginx server:
+   ```bash
+   docker-compose up -d
+   ```
+4. Your OPDS feed is now live on your server at `http://localhost:8080/catalog.xml`. Point your e-reader apps here!
+
 ### Using Kavita as a Local Server
 
 If you prefer to have a dedicated web interface and self-hosted server for your library, you can use Kavita to index the raw files.

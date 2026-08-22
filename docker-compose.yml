@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  opds-server:
+    image: nginx:alpine
+    container_name: minimal-books-opds
+    volumes:
+      # Serve the current directory as static files
+      - ./:/usr/share/nginx/html:ro
+    ports:
+      - "8080:80"
+    restart: unless-stopped
