@@ -23,6 +23,14 @@ Because the repository is hosted on GitHub Pages, the OPDS feed is available pub
    `https://davindakhrisna.github.io/minimal-books/catalog.xml`
 4. You can now browse, search, and download books directly to your device.
 
+### ✍️ Managing Metadata
+
+To add or update metadata for the OPDS feed:
+1. Open `.github/books.yaml`.
+2. Find the entry for the book you want to modify, or add a new entry if the file was just added.
+3. Modify the `title`, `author`, `genre`, `summary`, or `tags`.
+4. Commit and push the changes. The GitHub Action will automatically regenerate the `catalog.xml` feed. (Ignore this if you are self hosting)
+
 ## 🖥️ Self-Hosting (Standalone)
 
 Because the OPDS feed and the books are entirely static, you can easily host this repository yourself on any server using a basic static file web server like Nginx, without needing GitHub Pages at all.
@@ -59,11 +67,3 @@ python .github/scripts/watch.py
 You can also use dedicated library management software to host or manage this library:
 - [Using Kavita as a Local Server](.github/docs/kavita.md)
 - [Using Calibre](.github/docs/calibre.md)
-
-## ✍️ Managing Metadata
-
-To add or update metadata for the OPDS feed:
-1. Open `.github/books.yaml`.
-2. Find the entry for the book you want to modify, or add a new entry if the file was just added.
-3. Modify the `title`, `author`, `genre`, `summary`, or `tags`.
-4. Commit and push the changes. The GitHub Action will automatically regenerate the `catalog.xml` feed.
