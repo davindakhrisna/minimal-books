@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:github-pages-book-catalog</id>
   <title>My Book Catalog</title>
-  <updated>2026-08-22T00:49:09Z</updated>
+  <updated>2026-08-22T00:57:09Z</updated>
   <author>
     <name>OPDS Generator</name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Algorithms Notes for Professionals</title>
     <id>urn:uuid:ed9160c9-3a1d-5668-80d9-2582f779e692</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>GoalKicker</name>
     </author>
@@ -25,7 +25,7 @@
   <entry>
     <title>Algorithms for Decision Making</title>
     <id>urn:uuid:466d73e9-bfe6-58ae-b466-09c74286efda</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Mykel J. Kochenderfer, Tim A. Wheeler, Kyle Wray</name>
     </author>
@@ -39,7 +39,7 @@
   <entry>
     <title>C++ Programming</title>
     <id>urn:uuid:0bb057bd-d160-5404-bb93-480d3dc7e95b</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Wikibooks</name>
     </author>
@@ -53,7 +53,7 @@
   <entry>
     <title>C++ Tapestry 2</title>
     <id>urn:uuid:6173ea53-743a-56fc-a529-afc4d8fe1d03</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Owen Astrachan</name>
     </author>
@@ -67,7 +67,7 @@
   <entry>
     <title>Cyberpunk 2077 No Coincidence</title>
     <id>urn:uuid:2ffb7a37-1c71-523a-bc8d-c1f18a247a0d</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Rafał Kosik</name>
     </author>
@@ -81,7 +81,7 @@
   <entry>
     <title>Foundations of Machine Learning</title>
     <id>urn:uuid:57df707c-b384-53b2-8dfc-51f0d0155133</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</name>
     </author>
@@ -95,7 +95,7 @@
   <entry>
     <title>How It Works…The Computer</title>
     <id>urn:uuid:b6bc9942-6c4b-5eaf-9915-56d6f46685d1</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>David Carey</name>
     </author>
@@ -109,7 +109,7 @@
   <entry>
     <title>The Prince</title>
     <id>urn:uuid:9db69e75-a08c-5a0c-ae48-da3d726cc956</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Niccolò Machiavelli</name>
     </author>
@@ -123,7 +123,7 @@
   <entry>
     <title>Understanding Machine Learning</title>
     <id>urn:uuid:23cb687e-2240-5d2f-8abb-d14d4a92dca9</id>
-    <updated>2026-08-22T00:49:09Z</updated>
+    <updated>2026-08-22T00:57:09Z</updated>
     <author>
       <name>Shai Shalev-Shwartz, Shai Ben-David</name>
     </author>
