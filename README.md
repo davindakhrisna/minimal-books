@@ -1,6 +1,6 @@
 <div align="center">
   <img src=".github/assets/logo.png" alt="Minimal Books Logo" width="200" />
-  <h1>📚 Minimal Books</h1>
+  <h1>📚 Minimal OPDS</h1>
 </div>
 
 A minimalist, human-readable repository for storing and indexing books. This repository automatically generates a standard OPDS (Open Publication Distribution System) feed from the provided books, making them accessible to any standard e-reader or library software.
