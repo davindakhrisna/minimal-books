@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Personal Library Media
+contents/*
+!contents/.gitkeep
+# Allow sample public domain / open source books for testing:
+!contents/The Prince.epub
+
+# Generated cover art artifacts
+covers/*
+!covers/.gitkeep
+
+# Database
+library.db
+library.db-journal
